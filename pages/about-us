@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="MobileOptimized" content="320">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+    <title>Easy-Fit - About Us</title>
+
+		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome.min.css" />
+
+    <link rel="icon" type="image/png" href="/favicon.png?v=13" sizes="96x96">
+
+		<link href='https://fonts.googleapis.com/css?family=Francois+One|Titillium+Web:400,700' rel='stylesheet' type='text/css'>
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+    <nav id="menu" class='menu slideout-menu'>
+      <ul>
+        <!-- <li class="contact-us"><a href="/page/pages/contact-us">Get a Quotde</a></li> -->
+
+<h2>Welcome</h2>
+
+  <li>
+    <a href="/home">
+      Home
+    </a>
+  </li>
+
+  <li>
+    <a href="/pages/about-us">
+      About Us
+    </a>
+  </li>
+
+  <li>
+    <a href="/pages/contact-us">
+      Contact Us
+    </a>
+  </li>
+
+  <h2 style='margin-top: 40px'>Our Range</h2>
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Windows <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/windows">Overview</a></li>
+      <li><a href="/pages/windows/casement">Casement</a></li>
+      <li><a href="/pages/windows/modus">Modus</a></li>
+      <li><a href="/pages/windows/vertical-sliding">Vertical Sliding</a></li>
+      <li><a href="/pages/windows/reversible">Reversible</a></li>
+      <li><a href="/pages/windows/tilt-and-turn">Tilt and Turn</a></li>
+    </ul>
+  </li>
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Doors <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/doors">Overview</a></li>
+      <li><a href="/pages/doors/residential">Residential Doors</a></li>
+      <li><a href="/pages/doors/composite">Composite Doors</a></li>
+      <li><a href="/pages/doors/french">French Doors</a></li>
+      <li><a href="/pages/doors/bi-fold">Bi-fold doors</a></li>
+      <li><a href="/pages/doors/sliding">Sliding Doors</a></li>
+    </ul>
+  </li>
+
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Conservatories <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/conservatories">Overview</a></li>
+      <li><a href="/pages/conservatories/victorian">Victorian</a></li>
+      <li><a href="/pages/conservatories/edwardian">Edwardian</a></li>
+      <li><a href="/pages/conservatories/lean-to">Lean-to</a></li>
+      <li><a href="/pages/conservatories/gable-ended">Gable Ended</a></li>
+      <li><a href="/pages/conservatories/tiled-roof">Tiled Roof</a></li>
+      <li><a href="/pages/conservatories/skypod-lantern-roofs">Skypod Lantern Roofs</a></li>
+    </ul>
+  </li>
+
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Glass & Glazing <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/glazing/glass">Glass</a></li>
+      <li><a href="/pages/glazing/solar-control">Solar Control</a></li>
+      <li><a href="/pages/glazing/tinting">Tinting</a></li>
+    </ul>
+  </li>
+
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Kitchens <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/kitchens/complete">Complete Kitchens</a></li>
+      <li><a href="/pages/kitchens/bespoke-doors">Bespoke Doors</a></li>
+    </ul>
+  </li>
+
+  <li><a href="/pages/bathrooms">Bathrooms</a></li>
+
+
+  <li>
+    <a href="/pages/blinds">Blinds</a>
+  </li>
+
+
+  <li><a href="/pages/splashbacks">Splashbacks</a></li>
+
+
+  <li><a href="/pages/soffit-and-fascia">Soffit & Fascia</a></li>
+  <li><a href="/pages/decking-and-balustrades">Decking & balustrades</a></li>
+
+      </ul>
+    </nav>
+
+    <main id="panel" class='panel'>
+
+      <div id="full-screen">
+        <div class="close-link">
+          Close
+        </div>
+        <img class="colour" src="" alt="" />
+      </div>
+
+      <div class="header">
+        <div class="container">
+          <header class="row">
+            <div class="col-xs-10">
+              <a href="/home">
+                <img class="logo" src="/images/logo.png" alt="Easy-Fit Logo" />
+              </a>
+              <img class='dickson' src="/images/dickson.png" alt="" />
+            </div>
+
+            <div class="col-xs-2">
+              <a class="toggle">
+                <i class="fa fa-bars fa-2x"></i>
+              </a>
+            </div>
+
+          </header>
+        </div>
+      </div>
+
+      <div class="info-bar">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <span class='phone'><i class="fa fa-phone"></i> <a href="tel:01777861333"> 01777 861333</a></span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <article class="page custom">
+  <section class='page-section confectionary intro'>
+  <div class='container'>
+    <div class="row">
+      <div class="col-md-6">
+        <h1>About Easy-Fit</h1>
+
+        <p>Working from two new purpose built factories, and with many years experience in manufacturing we have the right balance between staff who are totally conscientious in their approach, and state of the art manufacturing machinery and technology. With investments in machinery up to now this year alone of over £200,000, we are investing in the our business to ensure that we maintain the highest levels of quality and service. This is combined with our ongoing and continuous efforts, to improve the product we supply, and the way we supply it to make it easier to install, and thus easier for the installer.</p>
+      </div>
+      <div class="col-md-6">
+        <img src="/images/apex.png" alt="" />
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <p>We understand the need to supply customers orders complete and on time, and as a trade only fabricator, our customers can be sure that we are concentrating on their needs, and not diluting our efforts with domestic installations.</p>
+
+        <h2 style='font-weight: normal;'>The <b>Easy-Fit</b> Brand</h2>
+
+        <p>We developed the ‘easy-fit’ brand to be synonymous with our company ethos, and the needs of installers. We manufacture a complete range of products, in both PVCu and Aluminium to provide a ‘One Stop Shop’ for our customers saving both time and money in deliveries, ordering etc., and having one point of call for all information, technical or otherwise.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class='page-section left'>
+  <div class='container'>
+    <div class="row">
+      <div class="col-md-5">
+        <img class='no-border' src="/images/stuga_saw_centre.gif" alt="" />
+        <img class='no-border' src="/images/sturtz_corner_cleaner.jpg" alt="" />
+      </div>
+      <div class="col-md-7">
+        <h2 style='font-weight: normal;'>Why choose <b>Easy-Fit</b>?</h4>
+        <ul>
+          <li>Easy to deal with, price, order and fit</li>
+          <li>Same day quotations with the option of 24/7 online pricing</li>
+          <li>All products manufactured in house</li>
+          <li>Nationwide deliveries, including site deliveries, in up to 5 working days</li>
+          <li>All frames and glass properly labelled</li>
+          <li>Full technical and marketing support, complimented with customer branded and printed literature.</li>
+          <li>All delivery vehicles have trackers, and mobile phones to prevent time wasted waiting for deliveries</li>
+          <li>All hardware fitted to frames</li>
+          <li>Easy-glaze packers fitted to all apertures</li>
+          <li>Glass units taped for safety</li>
+          <li>Full colour range</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class='page-section quote blue'>
+  <div class='container'>
+    <div class="row">
+      <div class="col-md-9">
+        <h2>Interested in a <i><b>FREE</b></i> no-obligation consulation?</h2>
+      </div>
+      <div class="col-md-3">
+        <a class='quote-link' href="/pages/contact-us">Get in touch &raquo;</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+</article>
+
+
+      <footer class='page-section'>
+        <!-- <img src="/images/bg2.jpg" alt="" /> -->
+        <div class='text'>
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <h2>
+                  We developed the <b>Easy-Fit</b> brand to be synonymous with our company ethos.
+                </h2>
+                <p>
+                  <a href="/pages/about-us">Learn more about Easy-Fit &raquo;</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="footer">
+          <div class="container">
+            <div class="col-sm-6 col-xs-12">
+              <i class="fa fa-copyright"></i> <b>Easy-Fit</b>, 2015. All rights reserved.
+            </div>
+            <div class="right col-sm-6 col-xs-12">
+              Part of the <a href="http://apexgroup.solutions/">Apex Group &raquo;</a>
+            </div>
+          </div>
+        </div>
+      </footer>
+
+      <!-- <footer>
+        <img src="/images/bg3.jpg" alt="" />
+      </footer> -->
+    </main>
+
+
+
+		<script src="/js/jquery-1.11.3.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
+		<script src="/js/bootstrap.min.js"></script>
+		<script src="/js/slideout.min.js"></script>
+		<script src="/js/base.js"></script>
+  </body>
+</html>

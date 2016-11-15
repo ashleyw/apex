@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="MobileOptimized" content="320">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+    <title>Easy-Fit - Solar Control Glass</title>
+
+		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome.min.css" />
+
+    <link rel="icon" type="image/png" href="/favicon.png?v=13" sizes="96x96">
+
+		<link href='https://fonts.googleapis.com/css?family=Francois+One|Titillium+Web:400,700' rel='stylesheet' type='text/css'>
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+    <nav id="menu" class='menu slideout-menu'>
+      <ul>
+        <!-- <li class="contact-us"><a href="/page/pages/contact-us">Get a Quotde</a></li> -->
+
+<h2>Welcome</h2>
+
+  <li>
+    <a href="/home">
+      Home
+    </a>
+  </li>
+
+  <li>
+    <a href="/pages/about-us">
+      About Us
+    </a>
+  </li>
+
+  <li>
+    <a href="/pages/contact-us">
+      Contact Us
+    </a>
+  </li>
+
+  <h2 style='margin-top: 40px'>Our Range</h2>
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Windows <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/windows">Overview</a></li>
+      <li><a href="/pages/windows/casement">Casement</a></li>
+      <li><a href="/pages/windows/modus">Modus</a></li>
+      <li><a href="/pages/windows/vertical-sliding">Vertical Sliding</a></li>
+      <li><a href="/pages/windows/reversible">Reversible</a></li>
+      <li><a href="/pages/windows/tilt-and-turn">Tilt and Turn</a></li>
+    </ul>
+  </li>
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Doors <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/doors">Overview</a></li>
+      <li><a href="/pages/doors/residential">Residential Doors</a></li>
+      <li><a href="/pages/doors/composite">Composite Doors</a></li>
+      <li><a href="/pages/doors/french">French Doors</a></li>
+      <li><a href="/pages/doors/bi-fold">Bi-fold doors</a></li>
+      <li><a href="/pages/doors/sliding">Sliding Doors</a></li>
+    </ul>
+  </li>
+
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Conservatories <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/conservatories">Overview</a></li>
+      <li><a href="/pages/conservatories/victorian">Victorian</a></li>
+      <li><a href="/pages/conservatories/edwardian">Edwardian</a></li>
+      <li><a href="/pages/conservatories/lean-to">Lean-to</a></li>
+      <li><a href="/pages/conservatories/gable-ended">Gable Ended</a></li>
+      <li><a href="/pages/conservatories/tiled-roof">Tiled Roof</a></li>
+      <li><a href="/pages/conservatories/skypod-lantern-roofs">Skypod Lantern Roofs</a></li>
+    </ul>
+  </li>
+
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Glass & Glazing <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/glazing/glass">Glass</a></li>
+      <li><a href="/pages/glazing/solar-control">Solar Control</a></li>
+      <li><a href="/pages/glazing/tinting">Tinting</a></li>
+    </ul>
+  </li>
+
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Kitchens <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/kitchens/complete">Complete Kitchens</a></li>
+      <li><a href="/pages/kitchens/bespoke-doors">Bespoke Doors</a></li>
+    </ul>
+  </li>
+
+  <li><a href="/pages/bathrooms">Bathrooms</a></li>
+
+
+  <li>
+    <a href="/pages/blinds">Blinds</a>
+  </li>
+
+
+  <li><a href="/pages/splashbacks">Splashbacks</a></li>
+
+
+  <li><a href="/pages/soffit-and-fascia">Soffit & Fascia</a></li>
+  <li><a href="/pages/decking-and-balustrades">Decking & balustrades</a></li>
+
+      </ul>
+    </nav>
+
+    <main id="panel" class='panel'>
+
+      <div id="full-screen">
+        <div class="close-link">
+          Close
+        </div>
+        <img class="colour" src="" alt="" />
+      </div>
+
+      <div class="header">
+        <div class="container">
+          <header class="row">
+            <div class="col-xs-10">
+              <a href="/home">
+                <img class="logo" src="/images/logo.png" alt="Easy-Fit Logo" />
+              </a>
+              <img class='dickson' src="/images/dickson.png" alt="" />
+            </div>
+
+            <div class="col-xs-2">
+              <a class="toggle">
+                <i class="fa fa-bars fa-2x"></i>
+              </a>
+            </div>
+
+          </header>
+        </div>
+      </div>
+
+      <div class="info-bar">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <span class='phone'><i class="fa fa-phone"></i> <a href="tel:01777861333"> 01777 861333</a></span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <article class="page custom">
+  <section class='page-section confectionary right intro'>
+  <div class='container'>
+    <div class="row">
+      <div class="col-md-7">
+        <h1>ClimaControl™ Glass</h1>
+        <h2></h2>
+        <p class='big'>
+          Traditional conservatories offer standard roof glass which provides protection from the elements and the preferable aesthetics of glass over polycarbonate. The <b>ClimaControl™</b> range of products offers even more: both roof <i>and</i> side wall glass products which help to keep the conservatory significantly cooler in the summer and warmer in the winter.
+        </p>
+      </div>
+      <div class="col-md-5">
+        <img src="/images/photos/sunny_conservatory.png" alt="" />
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <p>
+          The range incorporates three different options for the roof including ClimaControl™ Aqua – the highest performing, flagship product, and ClimaControl™ Vertical – a clear sidewall product with outstanding performance and clarity.
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class='page-section'>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <img class='dont-fit no-border' src="/images/climacontrol_aqua.png" alt="" />
+      </div>
+      <div class="col-md-6">
+        <h2>ClimaControl™ aqua</h2>
+        <p>
+          The flagship roof product in the SGG ClimaControl™ range due to its outstanding ability to reflect the majority (78%) of the sun’s heat away from the conservatory. This results in the room being up to 9˚C cooler in the peak, hot summer months.
+        </p>
+      </div>
+    </div>
+
+    <div class="row" style="margin-top: 40px">
+      <div class="col-md-6">
+        <img class='dont-fit no-border' src="/images/climacontrol_vertical.png" alt="" />
+      </div>
+      <div class="col-md-6">
+        <h2>ClimaControl™ vertical</h2>
+        <p>
+          Conservatory side panels cover as much glazed area as the roof, and are therefore vital in terms of controlling the overall internal environment.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class='page-section centered'>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Conservatory glass for year-round comfort</h2>
+        <p class='big'>
+          Getting the most out of your conservatory, orangery, garden room or sunroom is a crucial consideration when deciding on the specification of both the roof and the sidewalls.
+        </p>
+        <p>
+          Your choice of glass product is the single most important factor in cost-effectively controlling the climate inside your conservatory, along with other essential factors such as aesthetics, maintenance and longevity.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class='page-section'>
+  <div class="container">
+    <div class="row image-benefits">
+      <div class="col-md-6">
+
+        <div class="row benefit">
+          <div class="col-md-3">
+            <img class='dont-fit no-border' src="/images/heatreflection.jpg" alt="" />
+          </div>
+          <div class="col-md-9">
+            <h3>Heat reflection</h3>
+            <p>
+              Reflects up to 78% of the sun’s heat, keeping the conservatory up to 9°C cooler in the summer.
+            </p>
+          </div>
+        </div>
+
+        <div class="row benefit">
+          <div class="col-md-3">
+            <img class='dont-fit no-border' src="/images/thermalinsulation.jpg" alt="" />
+          </div>
+          <div class="col-md-9">
+            <h3>Thermal insulation (W/m²k)</h3>
+            <p>
+              63% better insulation than standard glass, keeping you warmer in winter and saving you money on your heating bills.
+            </p>
+          </div>
+        </div>
+
+
+
+
+        <div class="row benefit">
+          <div class="col-md-3">
+            <img class='dont-fit no-border' src="/images/glarereduction.jpg" alt="" />
+          </div>
+          <div class="col-md-9">
+            <h3>Glare reduction (%)</h3>
+            <p>
+              Reduces up to 68% of the sun’s glare, maximising visual comfort on the brightest of days. Like sunglasses for your roof!
+            </p>
+          </div>
+        </div>
+
+      </div>
+      <div class="col-md-6">
+
+
+
+        <div class="row benefit">
+          <div class="col-md-3">
+            <img class='dont-fit no-border' src="/images/selfcleaning.jpg" alt="" />
+          </div>
+          <div class="col-md-9">
+            <h3>Permanent self-cleaning</h3>
+            <p>
+              Permanent self-cleaning coating that reduces the need for manual cleaning, and also prevents water droplets from forming, which means clear views –even when it’s raining.
+            </p>
+          </div>
+        </div>
+
+        <div class="row benefit">
+          <div class="col-md-3">
+            <img class='dont-fit no-border' src="/images/condensation.jpg" alt="" />
+          </div>
+          <div class="col-md-9">
+            <h3>Virtual elimination of condensation</h3>
+            <p>
+              Internal condensation will only being to form at an average external temperature of -11°C (in timber / PVCu frames at an internal temperature of 20°C and 50% relative humidity)
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<section class='page-section left '>
+  <div class='container'>
+    <div class="row">
+      <div class="col-sm-6 ">
+        
+  <img class='no-border' src="/images/climacontrol.png" alt="" />
+
+      </div>
+      <div class="col-sm-6 ">
+        
+  <h2 style='font-weight: normal'>The <b>ClimaControl™</b> difference</h2>
+  <p>
+    <ul>
+      <li>Saves money on heating bills</li>
+      <li>Ensures highest level ‘A-C’ ratings for energy efficiency</li>
+      <li>Maximises natural light without loss of clarity</li>
+      <li>Virtually eliminates condensation</li>
+      <li><b>10 Year Guarantee</b> on Glass</li>
+    </ul>
+  </p>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class='page-section quote blue'>
+  <div class='container'>
+    <div class="row">
+      <div class="col-md-9">
+        <h2>Interested in a <i><b>FREE</b></i> no-obligation consulation?</h2>
+      </div>
+      <div class="col-md-3">
+        <a class='quote-link' href="/pages/contact-us">Get in touch &raquo;</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+</article>
+
+
+      <footer class='page-section'>
+        <!-- <img src="/images/bg2.jpg" alt="" /> -->
+        <div class='text'>
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <h2>
+                  We developed the <b>Easy-Fit</b> brand to be synonymous with our company ethos.
+                </h2>
+                <p>
+                  <a href="/pages/about-us">Learn more about Easy-Fit &raquo;</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="footer">
+          <div class="container">
+            <div class="col-sm-6 col-xs-12">
+              <i class="fa fa-copyright"></i> <b>Easy-Fit</b>, 2015. All rights reserved.
+            </div>
+            <div class="right col-sm-6 col-xs-12">
+              Part of the <a href="http://apexgroup.solutions/">Apex Group &raquo;</a>
+            </div>
+          </div>
+        </div>
+      </footer>
+
+      <!-- <footer>
+        <img src="/images/bg3.jpg" alt="" />
+      </footer> -->
+    </main>
+
+
+
+		<script src="/js/jquery-1.11.3.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
+		<script src="/js/bootstrap.min.js"></script>
+		<script src="/js/slideout.min.js"></script>
+		<script src="/js/base.js"></script>
+  </body>
+</html>

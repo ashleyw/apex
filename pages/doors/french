@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="MobileOptimized" content="320">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+    <title>Easy-Fit - French Doors</title>
+
+		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome.min.css" />
+
+    <link rel="icon" type="image/png" href="/favicon.png?v=13" sizes="96x96">
+
+		<link href='https://fonts.googleapis.com/css?family=Francois+One|Titillium+Web:400,700' rel='stylesheet' type='text/css'>
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+    <nav id="menu" class='menu slideout-menu'>
+      <ul>
+        <!-- <li class="contact-us"><a href="/page/pages/contact-us">Get a Quotde</a></li> -->
+
+<h2>Welcome</h2>
+
+  <li>
+    <a href="/home">
+      Home
+    </a>
+  </li>
+
+  <li>
+    <a href="/pages/about-us">
+      About Us
+    </a>
+  </li>
+
+  <li>
+    <a href="/pages/contact-us">
+      Contact Us
+    </a>
+  </li>
+
+  <h2 style='margin-top: 40px'>Our Range</h2>
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Windows <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/windows">Overview</a></li>
+      <li><a href="/pages/windows/casement">Casement</a></li>
+      <li><a href="/pages/windows/modus">Modus</a></li>
+      <li><a href="/pages/windows/vertical-sliding">Vertical Sliding</a></li>
+      <li><a href="/pages/windows/reversible">Reversible</a></li>
+      <li><a href="/pages/windows/tilt-and-turn">Tilt and Turn</a></li>
+    </ul>
+  </li>
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Doors <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/doors">Overview</a></li>
+      <li><a href="/pages/doors/residential">Residential Doors</a></li>
+      <li><a href="/pages/doors/composite">Composite Doors</a></li>
+      <li><a href="/pages/doors/french">French Doors</a></li>
+      <li><a href="/pages/doors/bi-fold">Bi-fold doors</a></li>
+      <li><a href="/pages/doors/sliding">Sliding Doors</a></li>
+    </ul>
+  </li>
+
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Conservatories <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/conservatories">Overview</a></li>
+      <li><a href="/pages/conservatories/victorian">Victorian</a></li>
+      <li><a href="/pages/conservatories/edwardian">Edwardian</a></li>
+      <li><a href="/pages/conservatories/lean-to">Lean-to</a></li>
+      <li><a href="/pages/conservatories/gable-ended">Gable Ended</a></li>
+      <li><a href="/pages/conservatories/tiled-roof">Tiled Roof</a></li>
+      <li><a href="/pages/conservatories/skypod-lantern-roofs">Skypod Lantern Roofs</a></li>
+    </ul>
+  </li>
+
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Glass & Glazing <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/glazing/glass">Glass</a></li>
+      <li><a href="/pages/glazing/solar-control">Solar Control</a></li>
+      <li><a href="/pages/glazing/tinting">Tinting</a></li>
+    </ul>
+  </li>
+
+
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      Kitchens <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="/pages/kitchens/complete">Complete Kitchens</a></li>
+      <li><a href="/pages/kitchens/bespoke-doors">Bespoke Doors</a></li>
+    </ul>
+  </li>
+
+  <li><a href="/pages/bathrooms">Bathrooms</a></li>
+
+
+  <li>
+    <a href="/pages/blinds">Blinds</a>
+  </li>
+
+
+  <li><a href="/pages/splashbacks">Splashbacks</a></li>
+
+
+  <li><a href="/pages/soffit-and-fascia">Soffit & Fascia</a></li>
+  <li><a href="/pages/decking-and-balustrades">Decking & balustrades</a></li>
+
+      </ul>
+    </nav>
+
+    <main id="panel" class='panel'>
+
+      <div id="full-screen">
+        <div class="close-link">
+          Close
+        </div>
+        <img class="colour" src="" alt="" />
+      </div>
+
+      <div class="header">
+        <div class="container">
+          <header class="row">
+            <div class="col-xs-10">
+              <a href="/home">
+                <img class="logo" src="/images/logo.png" alt="Easy-Fit Logo" />
+              </a>
+              <img class='dickson' src="/images/dickson.png" alt="" />
+            </div>
+
+            <div class="col-xs-2">
+              <a class="toggle">
+                <i class="fa fa-bars fa-2x"></i>
+              </a>
+            </div>
+
+          </header>
+        </div>
+      </div>
+
+      <div class="info-bar">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <span class='phone'><i class="fa fa-phone"></i> <a href="tel:01777861333"> 01777 861333</a></span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <article class="page custom">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class='page-section headline background right first'>
+  <img class='bg-image' src="/images/ec/ho_banner_french4.jpg" alt="" />
+  <div class='container'>
+    <div class="row">
+      <div class="col-md-12 headline">
+        <h1>French Doors</h1>
+        <h2>Invite the outdoors in.</h2>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class='page-section centered'>
+  <div class='container'>
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Classic French doors with cutting-edge technology.</h2>
+        
+  <p class="big">
+    On a warm summer’s day, there’s nothing quite like throwing open your French doors and letting the fresh air and sunshine come flooding in. French doors are a more traditional style of patio door, full of charm and character.
+  </p>
+  <p>
+    Unlike timber, UPVC gives you more options to customise your French doors than ever before. They also bring some real benefits, including the latest security and superior energy efficiency.
+  </p>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+<section class='page-section left benefits'>
+  <div class='container'>
+    <div class="row">
+      <div class="col-sm-6 ">
+        
+  <img src="/images/ec/ho_french_doors3.png" alt="" />
+
+      </div>
+      <div class="col-sm-6 ">
+        
+  <h2>Benefits of French Doors:</h2>
+  
+  <p>
+    <h3><i class="fa fa-check"></i> A range of sizes</h3>
+  </p>
+  <p>
+    <h3><i class="fa fa-check"></i> A colour that's right</h3>
+  </p>
+  <p>
+    <h3><i class="fa fa-check"></i> Opening options</h3>
+  </p>
+
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<section class='page-section centered'>
+  <div class='container'>
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Open up your space in a style that suits.</h2>
+        <p>
+          
+  French doors are ideal for opening up conservatories or brightening up your home with natural light. With our range of UPVC French doors, not only do you get the timeless style you’re looking but all the benefits of UPVC double-glazing too. We also make sure that when designing your doors, the ‘sight lines’ match up perfectly with your windows. To help you create an individual look, we have 7 different colours and finishes plus the choice of straight-edged, ‘chamfered’ frames or more a traditional ‘ovolo’ style.
+
+        </p>
+      </div>
+    </div>
+    <div class="row" style='margin-top: 30px'>
+      
+        <div class="col-sm-4 centered">
+          <img class='enlarge' src="/images/ec/ho_french_doors4.png" alt="" />
+        </div>
+      
+        <div class="col-sm-4 centered">
+          <img class='enlarge' src="/images/ec/ho_french_doors2.png" alt="" />
+        </div>
+      
+        <div class="col-sm-4 centered">
+          <img class='enlarge' src="/images/ec/ho_french_door_large8.jpg" alt="" />
+        </div>
+      
+    </div>
+  </div>
+</section>
+
+
+
+  <section class='page-section'>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2>Stylish colour choices.</h2>
+          <p>
+            A tasteful choice of colours allows your doors to compliment your home or conservatory. Whether you are looking for classic white or elegant cream, or if you prefer the natural appearance of rosewood or golden oak, we have a style that’s right for you.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="col-md-12 grid full-width">
+            <div class="colour" style='background: url(/images/swatches/white.jpg)'>White</div>
+            <div class="colour" style='background: url(/images/ec/modus_swatch_cream.png)'>Cream</div>
+            <div class="colour" style='background: url(/images/swatches/white_ash_foil.jpg)'>White Ash</div>
+            <div class="colour dark" style='background: url(/images/swatches/black_ash_foil.jpg)'>Black Ash</div>
+            <div class="colour dark" style='background: url(/images/swatches/irish_oak_foil.jpg)'>Irish Oak</div>
+            <div class="colour dark" style='background: url(/images/swatches/golden_oak_foil.jpg)'>Golden Oak</div>
+            <div class="colour dark" style='background: url(/images/swatches/rosewood-foil.jpg)'>Rosewood</div>
+            <div class="colour dark" style='background: url(/images/ec/modus_swatch_anteak.png)'>Anteak</div>
+            <div class="colour dark" style='background: url(/images/ec/modus_swatch_slate_grey.png)'>Slate Grey</div>
+            <div class="colour dark" style='background: url(/images/ec/modus_swatch_anthracite_grey.png)'>Anthracite Grey</div>
+            <div class="colour" style='background: url(/images/ec/modus_swatch_moondust_grey.png)'>Moondust Grey</div>
+            <div class="colour dark" style='background: url(/images/ec/modus_swatch_quartz.png)'>Quartz Platinum</div>
+            <div class="colour dark" style='background: url(/images/ec/modus_swatch_asphalt.png)'>Asphalt</div>
+            <div class="colour dark" style='background: url(/images/ec/modus_swatch_crown_platin.jpg)'>Crown Platin</div>
+            <div class="colour dark" style='background: url(/images/ec/modus_swatch_agate_grey.jpg)'>Agate Grey</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+<section class='page-section left '>
+  <div class='container'>
+    <div class="row">
+      <div class="col-sm-6 ">
+        
+  <img class='no-border' src="/images/ec/ho_french_doors5.png" alt="" />
+
+      </div>
+      <div class="col-sm-6 ">
+        
+  <h2 style='font-weight: normal'>The <b>Easy-Fit</b> difference</h2>
+  <p>
+    <ul>
+      <li><b>Co-ordinated colours</b> — Create the door-look of your choice, contemporary or traditional</li>
+      <li><b>Minimum reliance on sealant</b> — Design-engineered conservatory with life-long, watertight performance</li>
+      <li><b>Excellent efficiency & security</b> — Our doors ensure maximum heat retention and security</li>
+      <li><b>Reliable assured service</b> — We have the largest network of accredited local partners in the UK</li>
+    </ul>
+  </p>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class='page-section quote blue'>
+  <div class='container'>
+    <div class="row">
+      <div class="col-md-9">
+        <h2>Interested in a <i><b>FREE</b></i> no-obligation consulation?</h2>
+      </div>
+      <div class="col-md-3">
+        <a class='quote-link' href="/pages/contact-us">Get in touch &raquo;</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+</article>
+
+
+      <footer class='page-section'>
+        <!-- <img src="/images/bg2.jpg" alt="" /> -->
+        <div class='text'>
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <h2>
+                  We developed the <b>Easy-Fit</b> brand to be synonymous with our company ethos.
+                </h2>
+                <p>
+                  <a href="/pages/about-us">Learn more about Easy-Fit &raquo;</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="footer">
+          <div class="container">
+            <div class="col-sm-6 col-xs-12">
+              <i class="fa fa-copyright"></i> <b>Easy-Fit</b>, 2015. All rights reserved.
+            </div>
+            <div class="right col-sm-6 col-xs-12">
+              Part of the <a href="http://apexgroup.solutions/">Apex Group &raquo;</a>
+            </div>
+          </div>
+        </div>
+      </footer>
+
+      <!-- <footer>
+        <img src="/images/bg3.jpg" alt="" />
+      </footer> -->
+    </main>
+
+
+
+		<script src="/js/jquery-1.11.3.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
+		<script src="/js/bootstrap.min.js"></script>
+		<script src="/js/slideout.min.js"></script>
+		<script src="/js/base.js"></script>
+  </body>
+</html>
